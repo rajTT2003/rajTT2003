@@ -12,16 +12,24 @@
 <hr style="border: 0; height: 1px; background: #e1e4e8; margin: 20px 0;">
 
 
-### 🚀 About Me
+<h2 align="center">About Me</h2>
 
-- 🌱 Currently learning **PHP**  
-- 👨‍💻 Check out my work at [raj-f6tr.onrender.com](https://raj-f6tr.onrender.com)  
-- 📝 I write articles at [raj-f6tr.onrender.com](https://raj-f6tr.onrender.com)  
-- 💬 Ask me about **React, React Native, Vite**  
-- 📫 Reach me at **rajairework@gmail.com**  
-- 📄 See my experience at [raj-f6tr.onrender.com](https://raj-f6tr.onrender.com)
+<p align="center">
+  I'm a full-stack developer focused on creating fast, scalable, and user-friendly web applications.
+  Passionate about clean code, performance, and great user experience.
+</p>
 
----
+<ul>
+  <li>Currently exploring <strong>PHP</strong> and backend optimization.</li>
+  <li>View my work: <a href="https://raj-f6tr.onrender.com" target="_blank">raj-f6tr.onrender.com</a></li>
+  <li>Read my latest articles: <a href="https://raj-f6tr.onrender.com" target="_blank">raj-f6tr.onrender.com</a></li>
+  <li>Ask me about <strong>React</strong>, <strong>React Native</strong>, or <strong>Vite</strong>.</li>
+  <li>Reach me at: <a href="mailto:rajairework@gmail.com">rajairework@gmail.com</a></li>
+  <li>Check my experience: <a href="https://raj-f6tr.onrender.com" target="_blank">raj-f6tr.onrender.com</a></li>
+</ul>
+
+<hr style="border: 0; height: 1px; background: #e1e4e8; margin: 20px 0;">
+
 
 ### 🌐 Connect With Me
 
