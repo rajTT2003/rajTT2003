@@ -66,10 +66,7 @@
 </p>
 
 ---
-
-<h3 align="center">💡 Fun Fact</h3>
-
-<div align="center">
+### 💡 Fun Fact
 
 ```javascript
 while (alive) {
@@ -78,4 +75,3 @@ while (alive) {
   code();
   repeat();
 }
-
