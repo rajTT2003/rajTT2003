@@ -1,15 +1,16 @@
 <!-- Modernized GitHub Profile README -->
 
-<h1 align="center">Hey 👋, I'm Rajaire Thomas</h1>
-<h3 align="center">Full-Stack Developer from Jamaica 🇯🇲</h3>
+<h1 align="center">Hey, I'm Rajaire Thomas</h1>
+<h3 align="center">Full-Stack Developer from Jamaica</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rajtt2003">
-    <img src="https://komarev.com/ghpvc/?username=rajtt2003&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=rajtt2003&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   </a>
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #e1e4e8; margin: 20px 0;">
+
 
 ### 🚀 About Me
 
