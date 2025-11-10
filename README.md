@@ -67,12 +67,15 @@
 
 ---
 
-### 💡 Fun Fact
+<h3 align="center">💡 Fun Fact</h3>
 
-```js
+<div align="center">
+
+```javascript
 while (alive) {
   eat();
   sleep();
   code();
   repeat();
 }
+
