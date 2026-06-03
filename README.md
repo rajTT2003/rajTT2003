@@ -2,20 +2,18 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-Computer Science student focused on building web applications and backend systems.
+Building scalable web applications, APIs, and backend systems with a focus on clean architecture and real-world problem solving.
 </p>
 
 ---
 
-## About Me
+## About
 
-Final-year Computer Science student at the University of Technology, Jamaica.
+Full-stack developer focused on designing and building web applications, backend systems, and RESTful APIs.
 
-Focused on full-stack development, backend systems, and software engineering fundamentals.
+I work on real-world software solutions involving authentication systems, data-driven applications, and scalable architecture.
 
-Interested in building scalable applications and improving my skills through real-world development experience.
-
-Open to internships, collaboration, and remote opportunities.
+Open to remote opportunities, contract work, and collaboration.
 
 ---
 
@@ -32,12 +30,11 @@ Tools: Git, GitHub, Postman, Appwrite
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajtt2003&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtt2003&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajtt2003&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajtt2003&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtt2003&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
