@@ -27,12 +27,8 @@ Tools: Git, GitHub, Postman, Appwrite
 
 ---
 
-## GitHub Stats
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajTT2003&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajTT2003&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+Email: raiairework@gmail.com  
+Portfolio: https://raj-f6tr.onrender.com  
+GitHub: https://github.com/rajTT2003  
